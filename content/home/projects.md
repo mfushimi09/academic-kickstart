@@ -2,10 +2,10 @@
 # Projects widget.
 widget = "projects"
 active = true
-date = 2016-04-20T00:00:00
+date = 2018-10-03T00:00:00
 
 title = "Projects"
-subtitle = ""
+subtitle = "作成物"
 
 # Order that this section will appear in.
 weight = 50
@@ -29,17 +29,22 @@ filter_default = 0
 # To show all items, set `tag` to "*".
 # To filter by a specific tag, set `tag` to an existing tag name.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
-# [[filter]]
-#   name = "All"
-#   tag = "*"
-#
-# [[filter]]
-#   name = "Deep Learning"
-#   tag = "Deep Learning"
-#
-# [[filter]]
-#   name = "Other"
-#   tag = "Demo"
+ [[filter]]
+   name = "All"
+   tag = "*"
+
+ [[filter]]
+   name = "React"
+   tag = "React"
+
+ [[filter]]
+   name = "Node"
+   tag = "Node"
+
+ [[filter]]
+   name = "static"
+   tag = "static"
+
 
 +++
 
