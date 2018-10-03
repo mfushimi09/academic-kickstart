@@ -6,7 +6,7 @@ date = 2018-09-01
 title = "Background-Generator"
 
 # Project summary to display on homepage.
-summary = "背景色グラデーション生成サイト" 
+summary = "Background-Color グラデーション生成サイト" 
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "projects/bg-generator.png"
