@@ -42,7 +42,7 @@ weight = 5
 * 1985年生まれ    
 * Vim派
 
-毎日楽しみながら学習しているSoftware Developerです。    
+毎日楽しみながら学習しているSoftware Engineerです。    
 業務では非開発職ですが、2017年にGOROmanさんのmikulusに衝撃を受けて、ソフトウェア開発を志し、現在udemyを中心にして学習を加速させています。    
 
 直近では主にReact, Node, PythonでWeb開発に取り組んでいます。  
