@@ -3,10 +3,10 @@
 date = 2018-08-20
 
 # Project title.
-title = "static sites from Codepen"
+title = "static sites in Codepen"
 
 # Project summary to display on homepage.
-summary = "Codepenに作成したstaticサイト集" 
+summary = "Codepen上に配置したstaticサイト集" 
 
 
 # Optional image to display on homepage (relative to `static/img/` folder).
