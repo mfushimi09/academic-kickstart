@@ -43,5 +43,6 @@ math = false
 指定したURL画像内の顔認識(Face Detection)を行うサイトです。  
 基本的なLogin、Register機能を持っていて画像認識にトライした回数が記録できます。  
 フロントをReactJS、バックエンドをNodeで実装しています。  
+（2018年10月に開発）
 
 ※本サイトは[「The Complete Web Developer in 2018: Zero to Mastery」](https://www.udemy.com/the-complete-web-developer-in-2018/)に沿って作成した成果物です。
