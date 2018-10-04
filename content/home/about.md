@@ -39,7 +39,6 @@ weight = 5
 # Biography
 
 * fushimi
-* 1985年生まれ    
 * Vim派
 
 毎日楽しみながら学習しているSoftware Engineerです。    
