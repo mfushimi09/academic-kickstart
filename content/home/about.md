@@ -12,7 +12,6 @@ weight = 5
   interests = [
     "Web Development",
     "xR(VR/AR/MR)",
-    "Unity/C#",
     "Web Scrapiing",
     "Data Visualization",
     "Data Science"
