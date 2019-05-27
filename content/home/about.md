@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2018-10-03T00:00:00
+date = 2019-05-27T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -11,10 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Web Development",
-    "xR(VR/AR/MR)",
-    "Web Scrapiing",
-    "Data Visualization",
-    "Data Science"
+    "xR(VR/AR/MR)"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -41,6 +38,6 @@ weight = 5
 * Vim派
 
 毎日楽しみながら学習しているSoftware Engineerです。    
-業務でテストエンジニアとして従事するかたわら、個人でWeb開発、データサイエンスなどを勉強中です。
+業務で非エンジニアとして従事するかたわら、個人でWeb開発、データサイエンスなどを勉強中です。
 2017年にGOROmanさんのmikulusに衝撃を受けて、VR/AR技術に対して自分ができることについても模索中です。  
 <br>
