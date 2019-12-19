@@ -11,6 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Web Development",
+    "Software Testing",
     "xR(VR/AR/MR)"
   ]
 
@@ -34,10 +35,10 @@ weight = 5
 
 # Biography
 
-* fushimi
+* rakuda
 * Vim派
 
-毎日楽しみながら学習しているfushimiといいます。
+毎日楽しみながら学習しているrakudaといいます。
 業務でテスターとして従事するかたわら、個人でWeb開発などを勉強中です。
 2017年にGOROmanさんのmikulusに衝撃を受けて、VR/AR技術に対して自分ができることについても模索中です。  
 <br>

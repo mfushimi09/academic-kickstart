@@ -6,10 +6,10 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://fushimi-projects.netlify.com/"
+baseurl = "https://rakuda-projects.netlify.com/"
 
 # Title of your site
-title = "fushimi's projects"
+title = "rakuda's projects"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -51,7 +51,7 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "fushimi"
+  name = "rakuda"
   role = "Software Engineer in Tokyo"
 
   # Organizations/Affiliations.
@@ -106,7 +106,7 @@ enableGitInfo = false
   font = "default"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
-  description = "fushimi's projects"
+  description = "rakuda's projects"
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
   sharing_image = ""
