@@ -35,10 +35,10 @@ weight = 5
 
 # Biography
 
-* rakuda
+* sakutaro
 * Vim派
 
-毎日楽しみながら学習しているrakudaといいます。
+毎日楽しみながら学習しているsakutaroといいます。
 業務でテスターとして従事するかたわら、個人でWeb開発などを勉強中です。
 2017年にGOROmanさんのmikulusに衝撃を受けて、VR/AR技術についても模索中です。  
 <br>
