@@ -6,7 +6,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://rakuda-projects.netlify.com/"
+baseurl = "https://sakutaro-projects.netlify.com/"
 
 # Title of your site
 title = "sakutaro's projects"
@@ -106,7 +106,7 @@ enableGitInfo = false
   font = "default"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
-  description = "rakuda's projects"
+  description = "sakutaro's projects"
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
   sharing_image = ""

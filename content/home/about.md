@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2019-05-27T00:00:00
+date = 2020-02-03T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -10,7 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Web Development",
+    "cybersecurity",
     "Software Testing",
     "xR(VR/AR/MR)"
   ]
@@ -39,6 +39,6 @@ weight = 5
 * Vim派
 
 毎日楽しみながら学習しているsakutaroといいます。
-業務でテスターとして従事するかたわら、個人でWeb開発などを勉強中です。
+業務でテスターとして従事するかたわら、セキュリティなどを勉強中です。
 2017年にGOROmanさんのmikulusに衝撃を受けて、VR/AR技術についても模索中です。  
 <br>
